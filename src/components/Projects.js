@@ -23,7 +23,7 @@ function Projects() {
       keyFeatures: [
         "Developed a dynamic frontend using React.js with modular components",
         "Integrated real-time weather data using a public weather API",
-        "Enabled location-based search and dynamic data rendering",
+        // "Enabled location-based search and dynamic data rendering",
         "Designed a responsive and modern UI using Bootstrap and custom CSS",
       ],
       technologies: [
@@ -50,7 +50,7 @@ function Projects() {
         "Built using PHP and MySQL to handle bookings, package listings, and user management",
         "Implemented secure admin and user authentication systems",
         "Designed user-friendly interfaces for browsing tours and managing bookings",
-        "Enabled dynamic content updates and integrated a responsive layout for better accessibility"
+        // "Enabled dynamic content updates and integrated a responsive layout for better accessibility"
       ],
       technologies: [
         "PHP",
@@ -77,7 +77,7 @@ function Projects() {
         "Developed real-time messaging using Socket.io, supporting over 50 concurrent users with optimized, low-latency delivery",
         "Integrated secure user registration and login system with ID/password-based authentication",
         "Built a responsive, user-friendly chat interface using React.js",
-        "Ensured scalability with Node.js, Express.js, and MongoDB for backend logic and persistent chat data storage",
+        // "Ensured scalability with Node.js, Express.js, and MongoDB for backend logic and persistent chat data storage",
       ],
       technologies: [
         "React.js",
@@ -104,7 +104,7 @@ function Projects() {
         "Designed a responsive user interface using HTML, CSS, and JavaScript",
         "Implemented dynamic food menu with ordering functionality",
         "Integrated payment gateway API for secure online transactions",
-        "Enabled users to place and track food orders in real-time",
+        // "Enabled users to place and track food orders in real-time",
       ],
       technologies: [
         "HTML",
@@ -128,7 +128,7 @@ function Projects() {
         "Developed secure login system for both students and teachers with role-based access",
         "Enabled teachers to create and manage question papers dynamically",
         "Allowed students to attempt exams online and view results instantly",
-        "Built with a scalable MERN stack architecture for smooth performance and data handling",
+        // "Built with a scalable MERN stack architecture for smooth performance and data handling",
       ],
       technologies: [
         "MongoDB",
@@ -154,7 +154,7 @@ function Projects() {
         "Implemented secure user and admin login system with role-based access",
         "Enabled users to browse available cars and make online bookings",
         "Allowed admins to manage car listings and rental transactions",
-        "Designed a responsive UI for seamless experience across devices"
+        // "Designed a responsive UI for seamless experience across devices"
       ],
       technologies: [
         "PHP",
@@ -182,8 +182,8 @@ function Projects() {
       keyFeatures: [
         "Developed separate login systems for doctors and patients with secure authentication",
         "Enabled doctors to view and manage patient appointments online",
-        "Allowed patients to check doctor availability and book appointments based on free time slots",
-        "Built a responsive and user-friendly interface for smooth access across devices"
+        "Allowed patients to check doctor availability and book appointments",
+        // "Built a responsive and user-friendly interface for smooth access across devices"
       ],
       technologies: [
         "PHP",
@@ -209,7 +209,7 @@ function Projects() {
         "A web-based system designed to simplify salon operations, allowing customers to book appointments online and salon staff to manage schedules efficiently.",
       keyFeatures: [
         "Implemented secure login system for customers and salon staff",
-        "Enabled customers to view available services and book appointments based on stylist availability",
+        // "Enabled customers to view available services and book appointments based on stylist availability",
         "Allowed salon staff to manage bookings, view schedules, and update service slots",
         "Designed a responsive UI to ensure smooth experience across all devices"
       ],

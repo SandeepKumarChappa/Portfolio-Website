@@ -78,11 +78,12 @@ function Navbar() {
           <ul className="navbar-nav ms-auto">
             {[
               { id: 'home', label: 'Home', icon: '🏠' },
-              { id: 'about', label: 'Education', icon: '🎓' },
               { id: 'skills', label: 'Skills', icon: '⚡' },
               { id: 'projects', label: 'Projects', icon: '💻' },
               // { id: 'coding-profiles', label: 'Coding Profiles', icon: '👨‍💻' },
               { id: 'certificates', label: 'Certificates', icon: '🏆' },
+              { id: 'about', label: 'Education', icon: '🎓' },
+
               { id: 'contact', label: 'Contact', icon: '📧' }
             ].map((item) => (
               <li className="nav-item" key={item.id}>
